@@ -1,5 +1,2 @@
-Jo Bonten Website Github Repo
+![Jo Bonten](https://i.ytimg.com/vi/kKJvIWI0ha4/maxresdefault.jpg)
 
-Created by: Driek van der Meulen
-Date of Creation: 7/9/2022
-Licence: MIT
