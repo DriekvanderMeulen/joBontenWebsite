@@ -27,6 +27,8 @@ body{
 .aboutText{
     margin-right: 20%;
     margin-left: 20%;
+    font-family: sans-serif;
+    text-align: center;
 }
 
 .video1{
